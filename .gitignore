@@ -4,3 +4,4 @@ node_modules/
 # NPM files
 package-lock.json
 package.json
+.env
