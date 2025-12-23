@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "prisma generate "
+    "build": "npm install && npx prisma generate "
   },
   "dependencies": {
     "@prisma/client": "^5.13.0",
