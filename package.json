@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "prisma generate "
+  },
   "dependencies": {
     "@prisma/client": "^5.13.0",
     "express": "^5.2.1"
